@@ -1,0 +1,15 @@
+Name,Analyte,Common Units range,SI Units range,Common Units column,SI Units column
+ALT,Alanine Aminotransferase,10-47 U/L,10-47 U/L,21,21
+Alb,Albumin,3.3-5.5 g/dL,33-55 g/L,26,25
+AlkPhos,Alkaline Phosphatase,42-141:53-128 U/L,42-141:53-128 U/L,20,20
+AST,Aspartate Aminotransferase,11-38 U/L,11-38 U/L,22,22
+Ca,Calcium,8.0-10.3 mg/dL,2.0-2.58 mmol/L,15,14
+Cl,Chloride,98-108 mmol/L,98-108 mmol/L,11,11
+Cr,Creatinine,0.6-1.2 mg/dL,53-106 umol/L,19,18
+Glu,Glucose,73-118 mg/dL,4.05-6.55 mmol/L,13,12
+K,Potassium,3.6-5.1 mmol/L,3.6-5.1 mmol/L,9,9
+Na,Sodium,128-145 mmol/L,128-145 mmol/L,8,8
+Tbili,Total Bilirubin,0.2-1.6 mg/dL,3.4-27.4 umol/L,24,23
+TCo2,Total Carbon Dioxide,18-33 mmol/L,18-33 mmol/L,10,10
+TP,Total Protein,6.4-8.1 g/dL,64-81 g/L,28,27
+BUN,Blood Urea Nitrogen,7-22 mg/dL,2.5-7.9 mmol urea/L,17,16

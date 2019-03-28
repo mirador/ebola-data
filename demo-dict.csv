@@ -1,0 +1,9 @@
+2,AGE,Age,Demographics,Basic Information,int,
+3,GEND,Gender,Demographics,Basic Information,category,1:Female;0:Male
+4,VILLA,Village,Demographics,Basic Information,category,
+5,CHIEF,Chiefdom,Demographics,Basic Information,category,
+6,DISTR,District,Demographics,Basic Information,category,
+7,OUT,Outcome,Demographics,Admission and Outcome,category,1:Died;0:Discharged
+8,DOOUT,Date of Outcome,Demographics,Admission and Outcome,date,
+9,ADMREP,Admitted at report,Demographics,Admission and Outcome,category,1:True;0:False
+10,DOPREADM,Pre-admission date,Demographics,Admission and Outcome,date,

@@ -1,0 +1,53 @@
+3,DOADM,Date of admission,Demographics,Admission and Outcome,date
+12,DODIS,Date of discharge,Demographics,Admission and Outcome,date
+17,TEMP,Temperature,Clinical,Vital signs,float
+18,PSYST,Systolic pressure,Clinical,Vital signs,float
+19,PDIAST,Diastolic pressure,Clinical,Vital signs,float
+20,HRATE,Hearth rate,Clinical,Vital signs,float
+21,RRATE,Respiratory rate,Clinical,Vital signs,float
+22,DONSET,Days since onset,Demographics,Admission and Outcome,int
+29,OXSAT,Oxygen saturation,Clinical,Vital signs,int
+30,BGUMS,Bleeding gums,Clinical,Symptoms,category,1:True;0:False
+31,BFalseSE,Bleeding Falsese,Clinical,Symptoms,category,1:True;0:False
+32,BSTOOL,Blood in stool,Clinical,Symptoms,category,1:True;0:False
+33,BVOMIT,Blood in vomit,Clinical,Symptoms,category,1:True;0:False
+34,BVINJ,Bleeding injection,Clinical,Symptoms,category,1:True;0:False
+35,BHEMAT,Bleeding hematoma,Clinical,Symptoms,category,1:True;0:False
+36,BSPUT,Blood in sputum,Clinical,Symptoms,category,1:True;0:False
+37,BURINE,Blood in urine,Clinical,Symptoms,category,1:True;0:False
+38,BVAG,Vaginal bleeding,Clinical,Symptoms,category,1:True;0:False
+41,BFalseNE,False bleeding,Clinical,Symptoms,category,1:True;0:False
+42,PABD,Abdominal pain,Clinical,Symptoms,category,1:True;0:False
+43,PJOINT,Joint pain,Clinical,Symptoms,category,1:True;0:False
+44,PMUSC,Muscle pain,Clinical,Symptoms,category,1:True;0:False
+45,PBACK,Back pain,Clinical,Symptoms,category,1:True;0:False
+46,PSIDE,Side pain,Clinical,Symptoms,category,1:True;0:False
+47,PRETROS,Retrosternal pain,Clinical,Symptoms,category,1:True;0:False
+49,POTHER,Other pain,Clinical,Symptoms,category
+50,PFalseNE,False pain,Clinical,Symptoms,category,1:True;0:False
+51,FEVER,Fever,Clinical,Symptoms,category,1:True;0:False
+52,CONJCT,Conjunctivitis,Clinical,Symptoms,category,1:True;0:False
+53,EDEMA,Edema,Clinical,Symptoms,category,1:True;0:False
+54,INFLA,Inflammation,Clinical,Symptoms,category,1:True;0:False
+55,RASH,Rash,Clinical,Symptoms,category,1:True;0:False
+56,HEADCH,Headache,Clinical,Symptoms,category,1:True;0:False
+57,STHROAT,Sore throat,Clinical,Symptoms,category,1:True;0:False
+58,VOMIT,Vomit,Clinical,Symptoms,category,1:True;0:False
+59,COUGH,Cough,Clinical,Symptoms,category,1:True;0:False
+60,DIARR,Diarrhea,Clinical,Symptoms,category,1:True;0:False
+61,WEAK,Weakness,Clinical,Symptoms,category,1:True;0:False
+62,DIZZI,Dizziness,Clinical,Symptoms,category,1:True;0:False
+63,HEAR,Hearing,Clinical,Symptoms,category,1:True;0:False
+64,CONV,Convulsions,Clinical,Symptoms,category,1:True;0:False
+65,CONF,Confusion,Clinical,Symptoms,category,1:True;0:False
+66,JAUN,Jaundice,Clinical,Symptoms,category,1:True;0:False
+68,SOTHER,Other symptoms,Clinical,Symptoms,category
+69,SFalseNE,False symptoms,Clinical,Symptoms,category,1:True;0:False
+75,ANTIMAL,Antimalarials,Clinical,Medication,category,1:True;0:False
+76,CEFTRI,Ceftriaxone,Clinical,Medication,category,1:True;0:False
+77,PCM,Paracetamol,Clinical,Medication,category,1:True;0:False
+78,METRO,Metronidazole,Clinical,Medication,category,1:True;0:False
+79,ACT,Artemisinin Combination Therapy,Clinical,Medication,category,1:True;0:False
+80,CIPRO,Ciprofloxacin,Clinical,Medication,category,1:True;0:False
+81,AMPIC,Ampicillin,Clinical,Medication,category,1:True;0:False
+82,OMEP,Omeprazole,Clinical,Medication,category,1:True;0:False

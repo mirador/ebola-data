@@ -1,0 +1,158 @@
+OriginalID,GID,Age,Sex,Village,Chiefdom,District,Outcome,OutcomeDate,AdmittedAtReport,PreAdmissionDate,Ebola_dem
+R-92,X-7028,42,Female,Koindux,Kissi Teng,Kailahun,,,True,,Positive
+R-240,X-7083,65,Female,Darux,Jawie,Kailahun,Died,2014-06-03,False,,Positive
+R-169,X-7147,44,Male,Njalax,Kissi Kama,Kailahun,Died,2014-06-06,True,,Positive
+R-78,X-7094,11,Female,Taiamax,Jawie,Kailahun,Died,2014-06-08,False,,Positive
+R-93,X-7248,46,Female,Darux,Jawie,Kailahun,Died,2014-06-09,True,2014-06-05,Positive
+R-111,X-7088,35,Female,Njalax,Jawie,Kailahun,Died,2014-06-22,True,2014-06-05,Positive
+R-167,X-7286,42,Male,Tombomax,Jawie,Kailahun,,2014-05-30,False,,Positive
+R-52,X-7197,42,Male,Njalax,Mambolo,Kambia,Discharged,2014-06-06,True,2014-06-05,Positive
+R-232,X-7121,20,Female,Njalax,Kissi Teng,Kailahun,Discharged,2014-07-08,True,2014-05-26,Positive
+R-40,X-7054,45,Female,Kailahunx,Kissi Teng,Kailahun,Died,2014-05-30,True,,Positive
+R-77,X-7019,50,Female,Massingbix,Kissi Teng,Kailahun,Died,2014-05-27,True,,Positive
+R-137,X-7261,15,Female,Njalax,Kissi Teng,Kailahun,,,True,,Positive
+R-258,X-7143,8,Female,Koindux,Kissi Teng,Kailahun,,,False,,Positive
+R-139,X-7001,55,Female,Kailahunx,Kissi Teng,Kailahun,Died,,False,,Positive
+R-295,X-7124,54,Female,Koidux,Kissi Teng,Kailahun,Died,,True,,Positive
+R-207,X-7162,57,Female,Darux,Kissi Teng,Kailahun,,,False,,Positive
+R-164,X-7270,19,Female,Njalax,Kissi Teng,Kailahun,,,True,,Positive
+R-216,X-7303,50,Female,Box,Kissi Teng,Kailahun,,,False,,Positive
+R-246,X-7177,27,Female,Njalax,Kissi Tongi,Kailahun,,,False,,Positive
+R-162,X-7042,38,Female,Bandajumax,Kissi Tongi,Kailahun,,,False,,Positive
+R-132,X-7217,38,Female,Darux,Jawie,Kailahun,Died,2014-06-06,True,2014-05-31,Positive
+R-171,X-7186,43,Male,Darux,Jawie,Kailahun,Died,2014-06-06,True,2014-06-02,Positive
+R-242,X-7154,45,Female,Njalax,Jawie,Kailahun,Discharged,2014-06-11,True,,Positive
+R-217,X-7153,30,Female,Njalax,Jawie,Kailahun,,,True,,Positive
+R-157,X-7231,37,Female,Njalax,Njaluahun,Kailahun,Died,2014-06-11,True,2014-06-04,Positive
+R-206,X-7193,25,Female,Koindux,Jawie,Kailahun,Died,2014-06-04,False,,Positive
+R-113,X-7136,10,Male,Kailahunx,Lower Bambara,Kenema,,2014-06-06,True,2014-06-04,Positive
+R-275,X-7034,64,Female,Kailahunx,Jawie,Kailahun,Died,2014-06-02,True,,Positive
+R-125,X-7169,45,Female,Kailahun Townx,Jawie,Kailahun,Died,2014-06-12,True,2014-06-04,Positive
+R-228,X-7011,22,Female,Njalax,Jawie,Kailahun,Died,2014-06-04,True,2014-06-04,Positive
+R-233,X-7106,35,Female,Darux,Jawie,Kailahun,Died,2014-06-08,True,2014-06-04,Positive
+R-32,X-7027,22,Female,Njalax,Jawie,Kailahun,Died,2014-06-07,True,2014-06-04,Positive
+R-175,X-7252,50,Female,Njalax,Jawie,Kailahun,Died,2014-06-06,True,2014-06-04,Positive
+R-90,X-7181,14,Female,Kpetemax,Jawie,Kailahun,Died,2014-06-06,True,2014-06-05,Positive
+R-254,X-7022,45,Female,Gondamax,Jawie,Kailahun,Died,2014-06-07,True,2014-06-05,Positive
+R-16,X-7287,33,Male,Jaiama Nimikorox,,Kailahun,Died,2014-06-13,False,,Positive
+R-127,X-7256,17,Female,Sonbudux,Jawie,Kailahun,,,False,,Positive
+R-230,X-7171,7,Female,Nyandehun Junctionx,Jawie,Kailahun,Died,2014-06-24,False,,Positive
+R-25,X-7296,28,Female,Kabalax,Jawie,Kailahun,,,False,,Positive
+R-229,X-7259,39,Female,Darux,Luawa,Kailahun,,,True,,Positive
+R-270,X-7230,60,Male,Darux,Jawie,Kailahun,Died,2014-06-09,True,2014-06-07,Positive
+R-182,X-7110,35,Female,Njalax,Luawa,Kailahun,Died,2014-06-17,True,2014-06-15,Positive
+R-268,X-7133,50,Male,Njalax,Jawie,Kailahun,Discharged,2014-06-14,True,2014-06-11,Positive
+R-11,X-7038,35,Female,Pangumax,Kpeje Bongre,Kailahun,Died,2014-06-11,True,2014-06-05,Positive
+R-194,X-7304,10,Male,Kpondux,Bureh,Port Loko,Died,2014-06-17,True,2014-06-06,Positive
+R-91,X-7209,45,Male,Freetownx,Jawie,Kailahun,Discharged,2014-06-17,True,2014-06-11,Positive
+R-165,X-7030,27,Male,Bendumax,Jawie,Kailahun,Died,2014-06-08,False,,Positive
+R-284,X-7008,50,Female,Darux,Jawie,Kailahun,,,True,2014-06-09,Positive
+R-83,X-7187,29,Male,Buedux,Jawie,Kailahun,Died,2014-06-22,False,,Positive
+R-124,X-7080,63,Male,Njalax,Jawie,Kailahun,Died,2014-06-15,True,2014-06-13,Positive
+R-247,X-7100,35,Female,Njalax,,Kailahun,Died,2014-06-12,True,2014-06-11,Positive
+R-213,X-7222,36,Female,Njalax,Jawie,Kailahun,Discharged,2014-06-15,True,2014-06-13,Positive
+R-51,X-7302,8,Female,Fokomax,Jawie,Kailahun,Discharged,2014-07-04,False,,Positive
+R-305,X-7182,40,Female,Kenemax,Jawie,Kailahun,Died,2014-06-16,True,2014-06-12,Positive
+R-63,X-7003,40,Male,Njalax,Mandu,Kailahun,,,False,,Positive
+R-80,X-7253,45,Male,Darux,Jawie,Kailahun,Discharged,2014-06-19,False,,Positive
+R-297,X-7071,45,Male,Kpangbandux,Luawa,Kailahun,,,True,,Positive
+R-159,X-7082,30,Female,Bomborhunx,Kissi Teng,Kailahun,Died,2014-06-16,False,2014-06-15,Positive
+R-309,X-7300,80,Female,Manowax,Kissi Teng,Kailahun,,,False,,Positive
+R-94,X-7205,30,Female,Kenemax,Kissi Teng,Kailahun,Died,2014-06-17,False,,Positive
+R-226,X-7056,73,Male,kailahunx,Kissi Teng,Kailahun,,,False,,Positive
+R-104,X-7158,38,Female,Njalax,Jawie,Kailahun,Discharged,2014-06-30,False,2014-06-13,Positive
+R-44,X-7306,50,Female,Darux,,,Died,2014-06-17,,,Positive
+R-58,X-7239,10,Female,Gondamax,Jawie,Kailahun,Discharged,2014-06-24,,2014-06-14,Positive
+R-294,X-7127,60,Female,Ngolahunx,Jawie,Kailahun,Died,2014-06-20,,2014-06-13,Positive
+R-223,X-7063,35,Female,Koniax,Jawie,Kailahun,Discharged,2014-07-10,,,Positive
+R-227,X-7145,40,Female,Ndogboix,Jawie,Kailahun,Died,2014-06-23,,2014-06-14,Positive
+R-296,X-7026,20,Female,Bendumax,Jawie,Kailahun,Discharged,2014-07-10,,,Positive
+R-286,X-7060,6,Male,Dambux,Jawie,Kailahun,Died,2014-06-21,,2014-06-14,Positive
+R-234,X-7014,2,Male,Kenemax,Jawie,Kailahun,Died,2014-06-19,,2014-06-14,Positive
+R-145,X-7079,4,Male,x,Jawie,Kailahun,Died,2014-06-21,False,2014-06-14,Positive
+R-256,X-7138,40,Male,Jawei wulox,Jawie,Kailahun,Died,2014-06-21,,2014-06-14,Positive
+R-262,X-7107,0.83,Male,Darux,Jawie,Kailahun,Discharged,2014-06-27,,,Positive
+R-106,X-7226,4,Female,Kaidux,Jawie,Kailahun,Discharged,2014-06-27,,2014-06-14,Positive
+R-134,X-7039,40,Female,Darux,Jawie,Kailahun,Died,2014-06-24,True,2014-06-16,Positive
+R-188,X-7149,35,Male,Njalax,Jawie,Kailahun,Discharged,2014-06-27,True,2014-06-16,Positive
+R-190,X-7194,12,Male,Darux,Jawie,Kailahun,Discharged,2014-07-10,True,2014-06-15,Positive
+R-147,X-7266,40,Male,Box,Jawie,Kailahun,Discharged,2014-07-10,True,2014-06-15,Positive
+R-118,X-7016,42,Female,PortLokox,Jawie,Kailahun,Died,2014-06-22,True,2014-06-18,Positive
+R-197,X-7257,40,Female,Koindux,Jawie,Kailahun,Died,2014-06-22,True,2014-06-18,Positive
+R-70,X-7185,13,Male,Njalax,Jawie,Kailahun,Discharged,2014-07-10,True,2014-06-14,Positive
+R-126,X-7074,30,Male,Njalax,Jawie,Kailahun,Died,2014-06-20,True,2014-06-16,Positive
+R-205,X-7097,30,Female,Njagbaemax,Jawie,Kailahun,Discharged,2014-07-02,True,2014-06-14,Positive
+R-292,X-7105,52,Female,Woromax,Jawie,Kailahun,Died,2014-06-21,True,2014-06-14,Positive
+R-84,X-7245,35,Female,Njalax,Jawie,Kailahun,Discharged,2014-07-10,True,2014-06-14,Positive
+R-174,X-7139,12,Male,Darux,Jawie,Kailahun,Died,2014-06-16,True,2014-06-16,Positive
+R-6,X-7103,10,Male,Njalax,Jawie,Kailahun,Died,2014-06-20,True,2014-06-14,Positive
+R-158,X-7012,6,Male,Mabolox,Jawie,Kailahun,Died,2014-06-18,True,2014-06-14,Positive
+R-42,X-7031,30,Male,Kormax,Malema,Kailahun,Died,2014-06-19,False,2014-06-16,Positive
+R-136,X-7200,35,Female,Njalax,Jawie,Kailahun,Died,2014-06-21,True,2014-06-18,Positive
+R-310,X-7173,60,Female,Njalax,Jawie,Kailahun,Died,2014-06-20,True,2014-06-16,Positive
+R-289,X-7285,45,Male,Buedux,Luawa,Kailahun,Died,2014-06-19,True,2014-06-17,Positive
+R-38,X-7150,45,Male,Njalax,Jawie,Kailahun,Died,2014-06-23,True,2014-06-18,Positive
+R-146,X-7040,5,Male,Njalax,Jawie,Kailahun,Died,2014-06-17,True,2014-06-16,Positive
+R-236,X-7059,40,Male,Njalax,Jawie,Kailahun,Died,2014-06-21,,2014-06-16,Positive
+R-129,X-7010,40,Female,Njalax,Kpeje Bongre,Kailahun,Died,2014-06-23,,2014-06-16,Positive
+R-35,X-7114,49,Male,Darux,Jawie,Kailahun,Died,2014-06-22,True,2014-06-19,Positive
+R-276,X-7068,14,Male,Darux,Nongowa,Kenema,Died,2014-06-23,True,2014-06-19,Positive
+R-156,X-7290,15,Male,Koidux,Jawie,Kailahun,Died,2014-06-19,True,2014-06-17,Positive
+R-271,X-7128,60,Female,Kenemax,Jawie,Kailahun,Died,2014-06-19,True,2014-06-17,Positive
+R-115,X-7237,35,Male,Njalax,Jawie,Kailahun,Died,2014-06-19,True,2014-06-17,Positive
+R-109,X-7275,1,Female,Darux,Kakua,Bo,Discharged,,True,2014-06-16,Negative
+R-120,X-7163,32,Female,Baidux,Jawie,Kailahun,Discharged,2014-06-24,True,2014-06-20,Positive
+R-74,X-7141,52,Male,Darux,Nongowa,Kenema,Died,2014-06-27,False,2014-06-19,Positive
+R-161,X-7050,,Male,Kolosux,Nongowa,Kenema,Died,2014-06-18,False,2014-06-18,Positive
+R-251,X-7244,15,Male,Box,Luawa,Kailahun,Discharged,2014-06-18,False,2014-06-18,Negative
+R-220,X-7148,40,Female,Darux,,Kenema,Died,,,,Positive
+R-119,X-7090,33,Male,Sasanix,,Western Area,,,,,Positive
+R-37,X-7199,0.5833333333333334,Male,Njalax,Kakua,Bo,,,,,Negative
+R-149,X-7291,24,Female,Freetownx,Luawa,Kailahun,,,,,Negative
+R-298,X-7214,0.5833333333333334,Male,Darux,Tikonko,Bo,,,,,Negative
+R-28,X-7052,30,Male,Njalax,Nongowa,Kenema,,,,,Negative
+R-245,X-7176,,Female,Koindux,Koya,Port Loko,,,,,Negative
+R-198,X-7227,75,Male,Bombuhunx,Western,Western Rural,,,,,Negative
+R-41,X-7043,40,Female,Waterloox,Western,Western Urban,,,,,Negative
+R-237,X-7161,35,Female,Kenemax,,Tonkolili,,,,,Negative
+R-244,X-7284,30,Female,Foindux,Tankoro,Kono,,,,,Negative
+R-143,X-7122,2,Female,Mangex,Lower Bambara,Kenema,,,,,Negative
+R-46,X-7241,16,Female,Darux,,Tonkolili,,,,,Negative
+R-287,X-7223,20,Female,Njalax,Kalasogoya,Tonkolili,,,,,Negative
+R-23,X-7254,23,Female,Freetownx,Nongowa,Kenema,,,,,Negative
+R-34,X-7084,35,Male,Buedux,Western,Western Rural,,,,,Negative
+R-225,X-7283,26,Male,Sumbuyax,Jawei,Kailahun,,,,,Negative
+R-303,X-7017,27,Female,Darux,Jawei,Kailahun,,,,,Negative
+R-241,X-7233,16,Male,Dindix,Jawei,Kailahun,,,,,Negative
+R-259,X-7081,2,Female,Njalax,,Kenema,,,,,Negative
+R-72,X-7002,48,Male,Njalax,,Kailahun,,,,,Negative
+R-95,X-7132,29,Male,Njalax,,Kenema,,,,,Negative
+R-135,X-7118,3,Female,Kenemax,,Bo,,,,,Negative
+R-215,X-7238,7,Male,Mile 91x,,Kono,,,,,Negative
+R-142,X-7020,16,Female,Njalax,,Kono,,,,,Negative
+R-81,X-7129,18,Male,Gbunbunax,,Kono,,,,,Negative
+R-166,X-7202,19,Male,Pangumax,,Kailahun,,,,,Negative
+R-54,X-7180,28,Male,Bombohunx,,Kailahun,,,,,Negative
+R-222,X-7203,17,Male,Waterloox,,Kailahun,,,,,Negative
+R-304,X-7268,65,Female,Nyandeyamax,,Kailahun,,,,,Negative
+R-173,X-7041,37,Male,Box,,Kailahun,,,,,Negative
+R-99,X-7167,28,Female,Kenemax,,Port Loko,,,,,Negative
+R-59,X-7195,30,Female,Bombomhunx,Jawei,Kailahun,,,,,Negative
+R-108,X-7123,43,Male,Sumbuyax,Jawei,Kailahun,,,,,Negative
+R-69,X-7242,35,Male,Njalax,Jawei,Kailahun,,,,,Negative
+R-22,X-7207,48,Male,Nyummdux,Jawei,Kailahun,,,,,Negative
+R-65,X-7144,30,Female,Kolosux,Jawei,Kailahun,,,,,Negative
+R-86,X-7232,34,Male,Darux,Jawei,Kailahun,,,,,Negative
+R-85,X-7208,1,Male,Darux,Kakua,Bo,,,,,Negative
+R-66,X-7292,8,Male,Nyemax,Nongowa,Kenema,,,,,Negative
+R-131,X-7189,1,Female,Nyummdux,Lugbu,Bo,,,,,Negative
+R-290,X-7029,33,Female,Njalax,Kakua,Bo,,,,,Negative
+R-231,X-7009,31,Male,Box,,Bo,,,,,Negative
+R-8,X-7250,0.9166666666666666,Female,Kormax,,Bo,,,,,Negative
+R-208,X-7234,47,Female,Bomborhunx,,Koinadugu,,,,,Negative
+R-209,X-7196,3,Male,Freetownx,,Western Area,,,,,Negative
+R-193,X-7201,52,Male,kailahunx,,Kailahun,,,,,Negative
+R-250,X-7307,72,Female,Njalax,,Kailahun,,,,,Negative
+R-62,X-7104,,Male,Koindux,,Kailahun,,,,,Negative
+R-75,X-7211,55,Male,Kailahunx,Tankoro,Kono,,,,,Negative
+R-24,X-7125,37,Male,Njala Giemax,western,Western Urban,,,,,Negative
